@@ -1,0 +1,14 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.border{
+    border: 2px solid red;
+}
+
+.err-msg{
+    color: red;
+}
